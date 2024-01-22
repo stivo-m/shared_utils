@@ -6,5 +6,8 @@
   "repository": "git@github.com:stivo-m/shared_utils.git",
   "author": "Steven Maina <maichstivo254@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": false,
+  "publishConfig": {
+      "@stivo-m:registry": "https://npm.pkg.github.com"
+  }
 }
